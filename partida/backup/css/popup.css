@@ -1,0 +1,109 @@
+/*----------------------------------------------*/
+/* POPUP */
+/*----------------------------------------------*/
+.overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(51, 51, 51, 0.5);
+  opacity: 0;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+.overlay.is-active {
+  opacity: 1;
+  z-index: 1000;
+}
+
+.popup {
+  position: fixed;
+  width: 300px;
+  height: 360px;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -180px;
+  z-index: -1;
+  opacity: 0;
+  border-radius: 5px;
+  -moz-transform: translate3d(0, -100%, 0);
+  -ms-transform: translate3d(0, -100%, 0);
+  -o-transform: translate3d(0, -100%, 0);
+  -webkit-transform: translate3d(0, -100%, 0);
+  transform: translate3d(0, -100%, 0);
+  -moz-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  font-family: sans-serif;
+}
+.popup.is-active {
+  opacity: 1;
+  z-index: 1001;
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  background: rgba(0,0,0,0.8)
+}
+.popup .popup-i {
+  position: relative;
+  padding: 15px;
+}
+.popup .popup__close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 100;
+}
+.popup .popup__close:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.popup .popup__title {
+  color: #c71b31;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.popup__content *{
+	font-size: 12px !important;
+	color: white;
+}
+.btn {
+  position: absolute;
+  z-index: 9999;
+  top: 32px;
+  left: 44%;
+  margin-left: -20px;
+  margin-top: -17px;
+  border: 0px solid rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-transform: lowercase;
+  text-decoration: none;
+  padding: 0;
+  font-size: 16px;
+  width: 40px;
+  height: 34px;
+  line-height: 30px;
+  cursor: pointer;
+  text-align: center;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.btn:hover {
+  background: white;
+  border: 0px solid white;
+  color: #e74c3c;
+}

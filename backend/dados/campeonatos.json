@@ -1,0 +1,236 @@
+{
+	"2017": {
+		"temporada": "2017",
+		"campeonatobrasileiro": {
+			"rodadaatual": "1",
+			"rodadasmax": "38",
+			"qtdtimes": "20",
+			"classificacao": {
+				"1": {
+					"idclube": "50",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"2": {
+					"idclube": "56",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"3": {
+					"idclube": "53",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"4": {
+					"idclube": "33",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"5": {
+					"idclube": "58",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"6": {
+					"idclube": "65",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"7": {
+					"idclube": "49",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"8": {
+					"idclube": "54",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"9": {
+					"idclube": "51",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"10": {
+					"idclube": "52",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"11": {
+					"idclube": "62",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"12": {
+					"idclube": "47",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"13": {
+					"idclube": "14",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"14": {
+					"idclube": "46",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"15": {
+					"idclube": "37",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"16": {
+					"idclube": "59",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"17": {
+					"idclube": "48",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"18": {
+					"idclube": "60",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"19": {
+					"idclube": "23",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				},
+				"20": {
+					"idclube": "39",
+					"pontos": "0",
+					"jogos": "0",
+					"vitorias": "0",
+					"empates": "0",
+					"derrotas": "0",
+					"golsmarcados": "0",
+					"golssofridos": "0"
+				}
+			},
+			"artilharia": {
+				"1": {
+					"idjogador": "0",
+					"gols": "0"
+				},
+				"2": {
+					"idjogador": "0",
+					"gols": "0"
+				},
+				"3": {
+					"idjogador": "0",
+					"gols": "0"
+				},
+				"4": {
+					"idjogador": "0",
+					"gols": "0"
+				},
+				"5": {
+					"idjogador": "0",
+					"gols": "0"
+				}
+			}
+		},
+		"copadobrasil": "null",
+		"primeiraligadobrasil": "null"
+	}
+}
